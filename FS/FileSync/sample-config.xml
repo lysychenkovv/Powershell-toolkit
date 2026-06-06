@@ -1,0 +1,6 @@
+<Configuration>
+    <SyncPair>
+        <Source>C:\Data</Source>
+        <Target>D:\Backup\Data</Target>
+    </SyncPair>
+</Configuration>
