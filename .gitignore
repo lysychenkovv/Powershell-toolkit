@@ -1,0 +1,34 @@
+# Credentials
+smtp-creds.xml
+*.clixml
+
+# Logs
+*.log
+logs/
+Logs/
+
+# PowerShell transcripts
+*.txt
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# PowerShell modules
+modules/
+
+# Reports
+reports/
+Reports/
+
+# Generated files
+output/
+Output/
